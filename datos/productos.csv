@@ -1,0 +1,31 @@
+id_producto,nombre,categoria,proveedor,costo
+P001,Pastilla de freno delantera,Frenos,ProveedorC,19.32
+P002,Pastilla de freno trasera,Frenos,ProveedorA,37.18
+P003,Disco de freno,Frenos,ProveedorC,45.86
+P004,Filtro de aceite,Filtros,ProveedorC,56.36
+P005,Filtro de aire,Filtros,ProveedorA,94.87
+P006,Filtro de gasolina,Filtros,ProveedorA,26.36
+P007,Filtro de cabina,Filtros,ProveedorC,63.17
+P008,Batería 12V 45Ah,Baterías,ProveedorB,72.31
+P009,Batería 12V 60Ah,Baterías,ProveedorC,8.43
+P010,Batería 12V 75Ah,Baterías,ProveedorC,74.08
+P011,Aceite 10W-40 1L,Lubricantes,ProveedorC,22.95
+P012,Aceite 5W-30 1L,Lubricantes,ProveedorC,10.61
+P013,Aceite sintético 5W-30 4L,Lubricantes,ProveedorA,114.02
+P014,Grasa multiuso,Lubricantes,ProveedorC,115.98
+P015,Bujía estándar,Encendido,ProveedorB,97.58
+P016,Bujía de iridio,Encendido,ProveedorA,38.64
+P017,Cable de bujía,Encendido,ProveedorB,14.43
+P018,Bobina de encendido,Encendido,ProveedorB,83.06
+P019,Amortiguador delantero,Suspensión,ProveedorB,54.5
+P020,Amortiguador trasero,Suspensión,ProveedorB,17.28
+P021,Rótula,Suspensión,ProveedorA,60.94
+P022,Terminal de dirección,Suspensión,ProveedorA,7.02
+P023,Banda de distribución,Distribución,ProveedorB,109.39
+P024,Banda serpentina,Distribución,ProveedorB,33.28
+P025,Bomba de agua,Distribución,ProveedorA,80.52
+P026,Radiador,Refrigeración,ProveedorA,39.47
+P027,"Limpiaparabrisas 18""",Refrigeración,ProveedorA,63.85
+P028,"Limpiaparabrisas 22""",Accesorios,ProveedorC,66.97
+P029,Líquido refrigerante 1L,Accesorios,ProveedorC,24.63
+P030,Foco LED H4,Iluminación,ProveedorC,116.44
